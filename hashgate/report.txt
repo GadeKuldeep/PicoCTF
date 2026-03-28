@@ -1,0 +1,17 @@
+Challange Name =>HashGate
+	In this challange we have to login as an admin user but they provided the guest credientials ,
+Once we login as an guest we get the User ID method used and the line saying that the guestuser id is 3000
+and in the url there was a hash,so I used hash_identifier  to find the hash type that is md5.
+That why i created the python file to convert the integer into the md5.And as I know that the admin user will be
+any one from the next 25 id's.
+	So with the help of burpsuit Intruder,I just added our hashes list and the burp suit checked it one by one
+ and at one state we got 200ok responce and thats it I just changed the hash with the url and I got the flag. 
+Challange Name =>HashGate
+        In this challange we have to login as an admin user but they provided the guest credientials ,
+Once we login as an guest we get the User ID method used and the line saying that the guestuser id is 3000
+and in the url there was a hash,so I used hash_identifier  to find the hash type that is md5.
+That why i created the python file to convert the integer into the md5.And as I know that the admin user will be 
+any one from the next 25 id's.
+        So with the help of burpsuit Intruder,I just added our hashes list and the burp suit checked it one by one 
+ and at one state we got 200ok responce and thats it I just changed the hash with the url and I got the flag.
+
