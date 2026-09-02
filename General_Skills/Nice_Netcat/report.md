@@ -98,7 +98,6 @@ The ASCII values received from the challenge server were successfully converted 
 [FLAG_OBTAINED_FROM_OUTPUT]
 ```
 
-> Replace `[FLAG_OBTAINED_FROM_OUTPUT]` with the actual flag obtained from the script output.
 
 ---
 
