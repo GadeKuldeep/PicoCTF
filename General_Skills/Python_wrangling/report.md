@@ -56,7 +56,6 @@ The encrypted flag was successfully decrypted using the `ende.py` script and the
 [FLAG_OBTAINED_FROM_OUTPUT]
 ```
 
-> Replace `[FLAG_OBTAINED_FROM_OUTPUT]` with the actual flag obtained during the challenge.
 
 ---
 
